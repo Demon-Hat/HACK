@@ -1,0 +1,34 @@
+#!/bin/bash
+
+
+function crifrada() {
+  red='\e[31m'
+  reset='\e[0m'
+  echo -e "${red}
+ 333333333                                 1
+  ____ ___ _____ ____   ____ _____ ___  ____  
+ / ___|_ _|  ___|  _ \ / __ \_   _/ _ \|  _ \ 
+| |    | || |_  | |_8 / / _1 || || | | | |_9 |
+| |___ | ||  _| |  _ 2 1 6_| || || |_| |  _ 3 
+ \____|___|_|   |_| \_\ \__,_||_| \___/|_| \_\ \n
+  Porque virou Hacker? \____/@DemonHat========                         
+
+[*] Parte de Criptografias opha!!
+[*] Conhecimento nao e crime!!
+[*] Se voce for descoberto entao nao es hacker
+[*] Use as minhas ferramentas pra valer nao incomodar criancas nas redes sociais!!
+
+
+   [01] Texto_pra_hash ${reset}
+  "
+
+  read -p "@cftr--# " comando
+
+  if [ "$comando" = "1" ]; then
+    python3 .hashes.py
+
+  else
+    echo "[404] not found"
+
+  fi  
+}

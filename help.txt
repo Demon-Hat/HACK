@@ -1,0 +1,44 @@
+#######
+s####
+#########
+
+SEJA BEM VINDO AO FRAMEWORK O HACKER
+
+####################################################
+aqui estao algumas informacoes do framework
+
+
+nome: The Hack
+
+dono: DemonHat
+
+versao: 1.0
+
+linguagens usadas: python(.py) e shell(.sh)
+
+suporte do proprietario: https://www.instagram.com/demon.hat
+####################################################
+
+
+Ajuda!
+
+para usar sem problemas rode o ===bash install.sh== ira instalar todos os pacotes necessarios
+para bom funcionamento e uso total no framework.
+de seguida rode o bash hack.sh para rodar ow script total aparecera uma tela de uso.
+
+por favor nao altere nada no codigo foi modificado e condicionado.
+se tiver problemas no uso ou de uso contacte o proprietario NB: so instagram
+
+################
+Demonhat
+
+Algoritmo de uso:
+
+1-bash install.sh
+2-bash hack.sh
+
+
+
+Aproveite 
+
+CINHECIMENTO NAO E CRIME
